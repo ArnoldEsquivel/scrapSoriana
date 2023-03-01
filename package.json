@@ -1,0 +1,14 @@
+{
+  "name": "scrapsoriana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapSor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@ArnoldEsquivel",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.7.2"
+  }
+}
